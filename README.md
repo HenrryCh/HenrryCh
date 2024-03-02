@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Henrry Chariguaman</h1>
+<h1 align="center">Hola 👋, Soy Henrry</h1>
 <img src="images/portada.png" alt="Foto de portada" width="100%" height="auto">
 <h4 align="center">Soy un ingeniero de software apasionado por la tecnología, especialmente la seguridad informática. Poseo habilidades en el desarrollo de aplicaciones web y en proporcionar soporte técnico. Me enorgullece afrontar desafíos tecnológicos y aprender de cada experiencia, dedicándome a la calidad en cada producto que desarrollo.</h4>
 
