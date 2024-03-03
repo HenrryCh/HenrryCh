@@ -26,7 +26,7 @@
 
 [<img align="left" height="75px" width="94px" alt="Warpnet" src="https://univercimas.com/wp-content/uploads/2021/02/Logo-universidad-de-bolivar-300x225.png"/>](https://www.ueb.edu.ec/)
 **Ingeniero de Software** \
-[**GRADUADO**](https://www.ueb.edu.ec/)  • 2018 - 2023\
+[**Universidad Estatal de Bolívar**](https://www.ueb.edu.ec/)  • 2018 - 2023\
 Aptitudes: `Análisis de requisitos` `Desarrollo de software` `Seguridad de la información` `Red de datos` `Metodologías Ágiles` `Gestión de proyectos` `Calidad del software`
 
 
